@@ -9,3 +9,11 @@
       Travel Website Project - Rome, Italy - 4 page website 
 ###### Day 08 - 09 - October 06-07, 2018 - Sat-Sun
        Finished my travel website project; The Principles of Beautiful Web Design 
+###### Day 10 - 14 - October 08-12, 2018 - Mon-Fri
+       CS - Boolean Logic and Logic Gates, Representing Number and Letters with Binary
+       JS - Functions and variables, objects, objects and functions, sorting arrays, coercion
+       UX -  How to Conduct User Interviews, Question Everything, The Power of Stories in Building Empathy, Choose Your Own Design Thinking Challenge, Stage 2 in the Design Thinking Process - Define the Problem by Synthesizing Information, Methods to Help You Define Synthesize and Make Sense in Your Research, Affinity Diagrams - Learn How to Cluster and Bundle Ideas and Facts, Empathy Map - Why and How to Use it, Personas - A Simple Introduction
+       Python - Math with Python, Variables, Functions - The Basics, Functions - Advanced Features, Functions and User Input, Conditionals, Conditionals - Advanced, Loops and User Input, The For Loop, User Input
+       Project: Product Site - Dog Apparel Online Shop
+###### Day 15 - 16 - October 13-14, 2018 - Sat-Sun 
+       Project: Product Site - Dog Apparel Online Shop; The Principles of Beautiful Web Design Chapter 3 - Texture 
