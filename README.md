@@ -16,4 +16,14 @@
        Python - Math with Python, Variables, Functions - The Basics, Functions - Advanced Features, Functions and User Input, Conditionals, Conditionals - Advanced, Loops and User Input, The For Loop, User Input
        Project: Product Site - Dog Apparel Online Shop
 ###### Day 15 - 16 - October 13-14, 2018 - Sat-Sun 
-       Project: Product Site - Dog Apparel Online Shop; The Principles of Beautiful Web Design Chapter 3 - Texture 
+       Project: Product Site - Dog Apparel Online Shop; The Principles of Beautiful Web Design Chapter 3 - Texture - Point, Line, Shape, Rounded Corners, Rotation, Shapes and Layout
+###### Day 17 - 21 - October 15-19, 2018 - Sat-Sun 
+       CS - How computers calculate, Registers and Rams, Central Processing Unit
+       JS - JS & the DOM, Get element by ID, Get Elements by class or Tag, Query Selector, Changing Text & HTML Content
+       UX - Design Thinking - Define and Frame Your Design Challenge by Creating Your Point Of View and Ask “How Might We”, Map the Stakeholders, Define Your Challenge, What is Ideation – and How to Prepare for Ideation Sessions, Understand the Elements and Thinking Modes that Create Fruitful Ideation Sessions
+       Responsive Web Design - What is Responsive Design?, Responsive Website Example, Intro to the Viewport
+       CSS - Positioning - Fixed position, z-index and stacking order, clipping content
+       Python - Loops and user input - The while loop, for loop with multiple lists, intro to file handling
+       Project: Product Site - Dog Apparel Online Shop
+###### Day 22 - 23 - October 20-21, 2018 - Sat-Sun 
+       Project: Product Site - Dog Apparel Online Shop; The Principles of Beautiful Web Design Chapter 3 - Texture - Volume and depth, perspective, proportion, light and shadow
