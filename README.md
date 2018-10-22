@@ -17,7 +17,7 @@
        Project: Product Site - Dog Apparel Online Shop
 ###### Day 15 - 16 - October 13-14, 2018 - Sat-Sun 
        Project: Product Site - Dog Apparel Online Shop; The Principles of Beautiful Web Design Chapter 3 - Texture - Point, Line, Shape, Rounded Corners, Rotation, Shapes and Layout
-###### Day 17 - 21 - October 15-19, 2018 - Sat-Sun 
+###### Day 17 - 21 - October 15-19, 2018 - Mon-Fri
        CS - How computers calculate, Registers and Rams, Central Processing Unit
        JS - JS & the DOM, Get element by ID, Get Elements by class or Tag, Query Selector, Changing Text & HTML Content
        UX - Design Thinking - Define and Frame Your Design Challenge by Creating Your Point Of View and Ask “How Might We”, Map the Stakeholders, Define Your Challenge, What is Ideation – and How to Prepare for Ideation Sessions, Understand the Elements and Thinking Modes that Create Fruitful Ideation Sessions
