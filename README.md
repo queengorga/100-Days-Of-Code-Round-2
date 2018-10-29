@@ -28,3 +28,12 @@
        Project: Product Site - Dog Apparel Online Shop
 ###### Day 22 - 23 - October 20-21, 2018 - Sat-Sun 
        Project: Product Site - Dog Apparel Online Shop; The Principles of Beautiful Web Design Chapter 3 - Texture - Volume and depth, perspective, proportion, light and shadow
+###### Day 24 - 25 - October 22-26, 2018 - Mon-Fri
+       JS & DOM - Sorting arrays, Coercion, Expressions and operators, Arrays, Function Declarations, Function Expressions, Decision Statements, Nodes
+       HTML-CSS- Review - Attributes - title, height, width, a href, alt, Headings - h1, hr, h1-6, p, Paragraphs - p, br, pre, Styles - color, font-family, text-align, font-size, background-color, Formatting - strong, em, mark, sub, del, CSS Syntax - class, id, p, h1, CSS How To - inline style, <style>, external stylesheet using link
+       UX - Create Some Space - for Ideation Sessions and Design Thinking, Create Some Space with d.school, Introduction to Essential Ideation Techniques - The Heart of Design Thinking, Learn How to Use the Best Ideation Methods: Brainstorming, Braindumping, Brainwriting, and Brainwalking, SCAMPER, Worst Possible Idea, Challenge Assumptions
+       Responsive web design - The viewport tag
+       Projects - Finished Product Site - Dog Apparel Online Shop - The GentlePaw, Started Restaurant Site - The Leaky Cauldron
+###### Day 26 - 27 - October 27-28, 2018 - Sat-Sun
+       The Principles of Beautiful Web Design - Pattern, building texture, Aged, Weathered, Worn and Nostalgic Style, Clean and Grainy, Handcrafted Scrapbook, Minimal Texture, Starting Your Own Textual Trends Application: Logo and Content (Reading); 
+       Project: Worked on Restaurant Site - The Leaky Cauldron
