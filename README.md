@@ -41,5 +41,14 @@
        JS - Review: Variables for Numbers, Variable Names Legal and Illegal, Math Expressions: familiar operators, Math Expressions: unfamiliar operators, Math Expressions: eliminating ambiguity, Concatenating text strings, Prompts, Iteration Statements, Basics of Scope, Traversing the DOM Part 1 (parent/child)
        UX -  Learn How to Use the Best Ideation Methods: Analogies, Etch A Sketch: How to Use Sketching in User Experience Design, How to Select the Best Idea by the End of an Ideation Session, 14 Barriers to Ideation - and How to Overcome Them, Exercise and Discussion - Share your Reflections on Ideation 
        Responsive Web Design - The viewport tag, Media Queries, Fluid Layouts, Tablet Styles, Mobile Styles
+       Project: Restaurant Site - The Leaky Cauldron
 ###### Day 36 - 37 - October 27-28, 2018 - Sat-Sun
        Project: Worked on Restaurant Site - The Leaky Cauldron
+###### Day 38 - 42 - November 05-09, 2018 - Mon-Fri
+       JS - Traversing the DOM Part 2 (Siblings), Events, Removing content, Event Bubbling, Interacting with Forms, Creating Elements, Styles & Classes
+       UX - The Key Benefits of Prototyping, Get Started with Prototyping, Prototyping in Design Thinking: How to Avoid Six Common Pitfalls, What Kind of Prototype Should You Create, Prototyping: Learn Eight Common Methods and Best Practices
+       Python - File Handling: Opening and Reading a File, Opening and Writing Text to a Text File, Appending to a Text File, The Rest of File Handling Methods, The With Statement
+       Project: Restaurant Site - The Leaky Cauldron 
+ ###### Day 43 - 44 - November 10-11, 2018 - Sat-Sun
+       Project: Restaurant Site - The Leaky Cauldron 
+       The Principles of Beautiful Web Design Chapter 4 - Typography: Taking Type to the Web, Web Fonts with @font-face, Self-hosted Web Fonts, Web Fonts Services, Text Image Replacement
