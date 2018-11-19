@@ -52,3 +52,10 @@
  ###### Day 43 - 44 - November 10-11, 2018 - Sat-Sun
        Project: Restaurant Site - The Leaky Cauldron 
        The Principles of Beautiful Web Design Chapter 4 - Typography: Taking Type to the Web, Web Fonts with @font-face, Self-hosted Web Fonts, Web Fonts Services, Text Image Replacement
+###### Day 45 - 49 - November 12-16, 2018 - Mon-Fri
+       JS - DOM:Attributes, Checkboxes & Change Events, Search Filter, Tabbed Content, DOMContentLoaded EventMore; Returning functions from functions, object literals
+       UX - Design Thinking:  Don't Build It, Fake It First - Prototyping for Mobile Apps, Test Your Prototypes: How to Gather Feedback and Maximise Learning, How to Get More Honest Feedback in User Testing, Heuristic Evaluation: How to Conduct a Heuristic Evaluation, Unmoderated Remote Usability Testing (URUT) - Every Step You Take, We Won’t Be Watching You, From Prototype to Product: Ensuring Your Solution is Feasible and Viable, Prototyping Process
+       Responsive Web Design - Making a Mobile Drop-Down Menu, Responsive Image & Polyfills, Responsive Frameworks Introduction
+ ###### Day 50 - 51 - November 17-18, 2018 - Sat-Sun
+       Project: Restaurant Site - The Leaky Cauldron 
+       The Principles of Beautiful Web Design Chapter 4 - Typography: Anatomy of a Letterform, Text Spacing, Text Alignment, Text Distinctions, Finding Fonts, Choosing the Right Fonts
