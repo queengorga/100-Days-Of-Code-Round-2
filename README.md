@@ -59,3 +59,7 @@
  ###### Day 50 - 51 - November 17-18, 2018 - Sat-Sun
        Project: Restaurant Site - The Leaky Cauldron 
        The Principles of Beautiful Web Design Chapter 4 - Typography: Anatomy of a Letterform, Text Spacing, Text Alignment, Text Distinctions, Finding Fonts, Choosing the Right Fonts
+###### Day 52 - 56 - November 19-23, 2018 - Mon-Fri
+       JS - Module pattern and revealing module pattern, Closures, This Keyword, Destructuring, String Template Literals, Regular Expressions, Basic JavaScript Syntax and Rules, Variables, Mathematical Operators, Math Operator Short-hand, Logging to the Console
+       HTML/CSS - HTML Quotations; CSS - Transforms, Transitions,  Keyframes, Animation Fill Mode, Repeating Animations
+       UX - What is User Experience, Why UX Now
