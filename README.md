@@ -56,6 +56,7 @@
        JS - DOM:Attributes, Checkboxes & Change Events, Search Filter, Tabbed Content, DOMContentLoaded EventMore; Returning functions from functions, object literals
        UX - Design Thinking:  Don't Build It, Fake It First - Prototyping for Mobile Apps, Test Your Prototypes: How to Gather Feedback and Maximise Learning, How to Get More Honest Feedback in User Testing, Heuristic Evaluation: How to Conduct a Heuristic Evaluation, Unmoderated Remote Usability Testing (URUT) - Every Step You Take, We Won’t Be Watching You, From Prototype to Product: Ensuring Your Solution is Feasible and Viable, Prototyping Process
        Responsive Web Design - Making a Mobile Drop-Down Menu, Responsive Image & Polyfills, Responsive Frameworks Introduction
+       Project: Restaurant Site - The Leaky Cauldron
  ###### Day 50 - 51 - November 17-18, 2018 - Sat-Sun
        Project: Restaurant Site - The Leaky Cauldron 
        The Principles of Beautiful Web Design Chapter 4 - Typography: Anatomy of a Letterform, Text Spacing, Text Alignment, Text Distinctions, Finding Fonts, Choosing the Right Fonts
@@ -63,3 +64,7 @@
        JS - Module pattern and revealing module pattern, Closures, This Keyword, Destructuring, String Template Literals, Regular Expressions, Basic JavaScript Syntax and Rules, Variables, Mathematical Operators, Math Operator Short-hand, Logging to the Console
        HTML/CSS - HTML Quotations; CSS - Transforms, Transitions,  Keyframes, Animation Fill Mode, Repeating Animations
        UX - What is User Experience, Why UX Now
+       Project: Restaurant Site - The Leaky Cauldron 
+###### Day 57 - 58 - November 24-25, 2018 - Sat-Sun
+       Project: Restaurant Site - The Leaky Cauldron 
+       The Principles of Beautiful Web Design Chapter 5 - Imagery (What to look for, Legitimate Image Sources, Getting Professional Help, How not to impress, Creative Cropping)
