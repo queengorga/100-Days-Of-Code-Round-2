@@ -68,3 +68,11 @@
 ###### Day 57 - 58 - November 24-25, 2018 - Sat-Sun
        Project: Restaurant Site - The Leaky Cauldron 
        The Principles of Beautiful Web Design Chapter 5 - Imagery (What to look for, Legitimate Image Sources, Getting Professional Help, How not to impress, Creative Cropping)
+###### Day 59 - 63 - November 26-30, 2018 - Mon-Fri
+       JS - Review -  Booleans in JS, If Statements, Else If Statements, Comparison Operators, Logical Operators, While Loops, For Loops, Break and Continue, Practical Example Using Loops, Functions, Variable Scope, How to make a statement, Variables and values, Expressions
+       CSS - Animation Direction, Animation Timing Functions, Animation Shorthand, Chaining Animations
+       UX - User Experience - The Beginner's Guide: Mind the Empathy Gap
+       Project: Restaurant Site - The Leaky Cauldron
+###### Day 64 - 65 - December 1-2, 2018 - Sat-Sun       
+       The Principles of Beautiful Web Design - Imagery (Photo Adjustments, File Formats and Resolutions, Creative Image Treatments, Application: The Finishing Touches, Onward and Upward)
+       Project: Restaurant Site - The Leaky Cauldron
