@@ -76,3 +76,11 @@
 ###### Day 64 - 65 - December 1-2, 2018 - Sat-Sun       
        The Principles of Beautiful Web Design - Imagery (Photo Adjustments, File Formats and Resolutions, Creative Image Treatments, Application: The Finishing Touches, Onward and Upward)
        Project: Restaurant Site - The Leaky Cauldron
+###### Day 66 - 70 - December 3-7, 2018 - Mon-Fri
+       JS - Built-In Native, Construction Function calls with the new Keyword, Objects and the Prototype Chain,, Numbers, NaN (Not a Number), Strings, Slice and Split Strings, Arrays, Introduction to Objects, Creating a New JS Object, This Keyword
+       CSS - Animating a Pop-up, Animating a Shopping Cart, Flipping Cards Animation
+       UX - User Experience - The Beginner's Guide: Usability - A Part of the User Experience
+       Project: Author-Book Site - J.R.R. Tolkien - Berenmore - The Web Heart of Middle Earth
+###### Day 71 - 72 - December 8-9, 2018 - Sat-Sun              
+       Project: Author-Book Site - J.R.R. Tolkien - Berenmore - The Web Heart of Middle Earth
+       Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 1: How do I define styles with CSS: Inline styles, embedded styles, external style sheets, CSS syntax, What are CSS selectors and how do I use them effectively: Type selectors, class selectors, ID selectors, descendant selectors, adjacent selector, pseudo-class selectors for links, first child pseudo-class selector 
