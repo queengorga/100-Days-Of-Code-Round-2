@@ -84,3 +84,10 @@
 ###### Day 71 - 72 - December 8-9, 2018 - Sat-Sun              
        Project: Author-Book Site - J.R.R. Tolkien - Berenmore - The Web Heart of Middle Earth
        Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 1: How do I define styles with CSS: Inline styles, embedded styles, external style sheets, CSS syntax, What are CSS selectors and how do I use them effectively: Type selectors, class selectors, ID selectors, descendant selectors, adjacent selector, pseudo-class selectors for links, first child pseudo-class selector 
+###### Day 73 - 77 - December 10-14, 2018 - Mon-Fri
+       JS - Constructor Functions,The Date Object, What is the DOM in JS?, Traversing the DOM, Changing Page Content, Changing Element Attributes, Changing CSS Styles
+       UX - User Experience - The Beginner's Guide: User Centred Design
+       Project: Author-Book Site - J.R.R. Tolkien - Berenmore - The Web Heart of Middle Earth
+###### Day 78 - 79 - December 15-16, 2018 - Sat-Sun              
+       Project: Author-Book Site - J.R.R. Tolkien - Berenmore - The Web Heart of Middle Earth
+       Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 1: How do I define styles with CSS: How does the browser know which styles to apply: cascade, weight, origins, author style sheets, user style sheets, specificity, source order
