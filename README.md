@@ -91,3 +91,12 @@
 ###### Day 78 - 79 - December 15-16, 2018 - Sat-Sun              
        Project: Author-Book Site - J.R.R. Tolkien - Berenmore - The Web Heart of Middle Earth
        Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 1: How do I define styles with CSS: How does the browser know which styles to apply: cascade, weight, origins, author style sheets, user style sheets, specificity, source order
+###### Day 80 - 84 - December 17-21, 2018 - Mon-Fri
+       JS - Adding Elements to the DOM, Removing Elements from the DOM, Intro to JS Events, The onClick Event, Window onLoad Event, JS Timers, Accessing Form Elements, Very simple Form Validation, JS Libraries
+       UX - How to Sell UX Design to Clients, User Research: What it is and Why You Should Do It, Marc Hassenzahl's Introduction to User Experience, Marc Hassenzahl's Guidelines for Experience Design
+       Python - Why learn Python?, Installing Python 3, Numbers, Strings, Lists, Standard Input, String Formatting
+       Project: Author-Book Site - J.R.R. Tolkien - Berenmore - The Web Heart of Middle Earth
+###### Day 85 - 86 - December 22-23, 2018 - Sat-Sun              
+	Project: Book-Author Site - J.R.R. Tolkien - Berenmore: The Web Heart of Middle Earth
+	Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 2 - Text Styling and Other Basics
+Font-family property, font-size property, sizing fonts units of measurement (points, picas, pixels, ems, exes, percentage, sizing fonts using keywords, absolute keywords, relative keywords, relative sizing and inheritance
