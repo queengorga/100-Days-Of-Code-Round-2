@@ -100,3 +100,10 @@
 	Project: Book-Author Site - J.R.R. Tolkien - Berenmore: The Web Heart of Middle Earth
 	Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 2 - Text Styling and Other Basics
 Font-family property, font-size property, sizing fonts units of measurement (points, picas, pixels, ems, exes, percentage, sizing fonts using keywords, absolute keywords, relative keywords, relative sizing and inheritance
+###### Day 87 - 91 - December 24-28, 2018 - Mon-Fri
+	JS - JavaScript Classes, Arrow Functions, Object Oriented JS (Object Literals, Updating Properties, Classes, Class Constructors, Class Methods
+	Python - If Statements, For Loops, While Loops, Ranges, Functions, Variable Scope
+	Project: Book-Author Site - J.R.R. Tolkien - Berenmore: The Web Heart of Middle Earth
+ ###### Day 92 - 93 - December 29-30, 2018 - Sat-Sun              
+	Project: Book-Author Site - J.R.R. Tolkien - Berenmore: The Web Heart of Middle Earth
+	Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 2 - Text Styling and Other Basics - Text-decoration, ordering pseudo-class declarations, create multiple lines for links, unordered list, first-child selector, class selector, background-color, adjacent selector, applying a negative margin, highlight an important term on a page, line-height property, text-align: justify, horizontal rule, indenting text-padding, blockquote, text-transform, list-style-type, list-style-image, display: inline, remove page margins, performing a global whitespace reset, adding comments to CSS file
