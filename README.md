@@ -107,3 +107,11 @@ Font-family property, font-size property, sizing fonts units of measurement (poi
  ###### Day 92 - 93 - December 29-30, 2018 - Sat-Sun              
 	Project: Book-Author Site - J.R.R. Tolkien - Berenmore: The Web Heart of Middle Earth
 	Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 2 - Text Styling and Other Basics - Text-decoration, ordering pseudo-class declarations, create multiple lines for links, unordered list, first-child selector, class selector, background-color, adjacent selector, applying a negative margin, highlight an important term on a page, line-height property, text-align: justify, horizontal rule, indenting text-padding, blockquote, text-transform, list-style-type, list-style-image, display: inline, remove page margins, performing a global whitespace reset, adding comments to CSS file
+###### Day 94 - 98 - December 31, 2018-January 4, 2019 - Mon-Fri
+	JS - Object Oriented JavaScript (Method Chaining, Class Inheritance, Constructors under the hood, Prototype, Prototype inheritance
+	Python - Dictionaries, Sorting and Sets, Classes, The init function, Methods and Attributes
+	Project: Book-Author Site - J.R.R. Tolkien - Berenmore: The Web Heart of Middle Earth
+ ###### Day 99 - 100 - January 5-6, 2019 - Sat-Sun  
+ 	Project: Book-Author Site - J.R.R. Tolkien - Berenmore: The Web Heart of Middle Earth
+			Reading: The CSS Anthology - 101 Essential Tips, Tricks and Hacks, 3rd Edition: Chapter 3 - CSS and Images
+			Image borders, removing borders, control background image repeats, positioning background image, background position (keywords, percentage values, unit values)		
